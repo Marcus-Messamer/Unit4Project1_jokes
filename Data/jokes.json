@@ -1,0 +1,25 @@
+{
+    "jokes": [
+      {
+        "setup": "Why did the tomato turn red?",
+        "punchline": "Because it saw the salad dressing!"
+      },
+      {
+        "setup": "Why do cows wear bells?",
+        "punchline": "Because their horns don't work!"
+      },
+      {
+        "setup": "What do you get when you cross a snowman and a shark?",
+        "punchline": "Frostbite!"
+      },
+      {
+        "setup": "Why don't scientists trust atoms?",
+        "punchline": "Because they make up everything!"
+      },
+      {
+        "setup": "Why did the bicycle fall over?",
+        "punchline": "Because it was two-tired!"
+      }
+    ]
+  }
+  
